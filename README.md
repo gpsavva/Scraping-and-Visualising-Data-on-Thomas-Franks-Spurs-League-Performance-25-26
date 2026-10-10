@@ -15,7 +15,8 @@ After a respectable start to the season for Thomas Frank’s Tottenham where the
 
 Here is a snippet of the Power BI dashboard that was constructed. It’s visualisations are included within the report below.
 
-<img width="2431" height="1387" alt="DashboardOverview" src="https://github.com/user-attachments/assets/42ab8138-ebc5-413c-8f24-7930a822d0d7" />
+<img width="2431" height="1387" alt="DashboardOverview" src="https://github.com/user-attachments/assets/14eb04b0-87b4-47fe-999b-88cc53801753" />
+
 
 There are a number of key valuable insights summarised below:
 
@@ -83,49 +84,49 @@ There were plenty more insights that were uncovered to showcase how Tottenham we
 
 ### 5.1 - Style of Play
 
-<img width="1224" height="710" alt="PossessionPPDA" src="https://github.com/user-attachments/assets/97b96a94-fa86-4879-b348-64911b4a4482" />
+<img width="1224" height="710" alt="PossessionPPDA" src="https://github.com/user-attachments/assets/16966a3a-a827-4b30-ba01-a57a0600f204" />
 
 When Tottenham were playing at Home, they enjoyed more possession than their opponents on average at 53.2% and a PPDA (Passes Per Defensive Action) of 9.04 which suggests average to intense style of pressing. However, when playing away from home, Tottenham had on average less possession than their opponents at 49% and a PPDA score of 14.17. This is indicative of more passive pressing in comparison with the team opting to wait back in a structured manner and counter attack. Despite this passive style of play and less average possession, Tottenham recorded an extra 3 wins away when compared to home.
 
 These findings are quite interesting and could point towards Thomas Frank not adequately preparing the squad on attacking patterns and so when they did press, they were extremely vulnerable to the counter attack and left too much space behind the back line which explains the 2 wins and 7 losses at Home. Additionally, when they did have more possession at Home the build-up play was sideways and predictable. Thomas Frank like at Brentford preferred and adapted better when his team has less of the ball and utilising a low block. This does not match the high expectations of Tottenham fans which would have put the squad under an enormous amount of pressure at Home.
 
-<img width="1354" height="790" alt="Shots" src="https://github.com/user-attachments/assets/f3485ca5-3148-43d1-8ec3-1fb9de8d91f8" />
+<img width="1354" height="790" alt="Shots" src="https://github.com/user-attachments/assets/b52d83c9-63e4-4976-a99d-223a0cc265c3" />
 
 If we assess Shots on Target and off Target for Tottenham Home and Away it further solidifies the previous findings. When Tottenham played at Home under Frank, they recorded 63 shots OFF TARGET in total which equates to 55.26% of ALL SHOTS. When playing Away this number is much lower at 45 which equates to 48.39%. Tottenham were making themselves more vulnerable to counter attacks and transitions at Home as well as wasting possession. Furthermore, it indicates an inefficiency in front of goal as well as poor decision making from the players that the manager was unable to correct.
 
 ### 5.2 - Late Goals Conceded
 
-<img width="957" height="552" alt="ForAgainst" src="https://github.com/user-attachments/assets/767dd517-e73a-4e68-bfef-85c5c7e241a9" />
+<img width="957" height="552" alt="ForAgainst" src="https://github.com/user-attachments/assets/5417da66-ca86-44dc-b276-25521b8fe7ad" />
 
 Interestingly, Tottenham were most vulnerable to conceding a goal at the end of both the first and second half. This adds up to 22 goals conceded during Frank’s tenure which is 59.46% of ALL Tottenham goals conceded in the premier league. Again, Tottenham were unable to nullify counter attacks and opponents pressing them, especially when losing possession. When comparing shots OUTSIDE the box of both Tottenham and their opposition, the opposition outranked them a staggering 17 out of 26 times. Thomas Frank’s men were enabling the opposition to have easy shooting chances.
 
 ### 5.3 - Expected Goal (xG) Difference vs Opposition
 
-<img width="2032" height="1204" alt="xg" src="https://github.com/user-attachments/assets/8c87f0ec-a773-4719-acaa-74477a82ca9d" />
+<img width="2032" height="1204" alt="xg" src="https://github.com/user-attachments/assets/c0617035-f1f3-4afd-a43b-cc9a50d61a4f" />
 
 #### 5.3.1 - HOME xG Difference
 
-<img width="2291" height="591" alt="table1" src="https://github.com/user-attachments/assets/84465305-8eed-4bee-a093-a13f49990bf4" />
+<img width="2291" height="591" alt="table1" src="https://github.com/user-attachments/assets/3c0e8edd-f06a-4545-aef1-5cd90bdcffd1" />
 
 When Tottenham played at Home, they had a HIGHER xG (Expected Goal) to their opponents 7 out of 13 times, so just OVER half. However, of these 7 times they only recorded 2 wins against mid to low opposition Burnley and Brentford, drew twice and lost 3 times against tough opposition like Aston Villa and Liverpool. This highlights the team’s lack of ruthlessness against top teams.
 
-<img width="2290" height="668" alt="table2" src="https://github.com/user-attachments/assets/3537489a-208a-4dc3-868e-2328a35b8cef" />
+<img width="2290" height="668" alt="table2" src="https://github.com/user-attachments/assets/191cede3-b636-4465-8d52-5d6ddacfebde" />
 
 Of the 6 times Tottenham had a LOWER xG to their opponents at home, they recorded NO wins against their opposition, drawing just twice and losing the other 4 matches. This signifies their struggles at Home to create lucrative scoring opportunities and not being ruthless enough to capitalise on the few chances they get. Not being an imposing threat when you have Home advantage is a worry that many fans were echoing.
 
 #### 5.3.2 - AWAY xG Difference
 
-<img width="2293" height="589" alt="table3" src="https://github.com/user-attachments/assets/48f96c59-5829-4bbe-a2fb-c1e307b89cc9" />
+<img width="2293" height="589" alt="table3" src="https://github.com/user-attachments/assets/ae4b280f-2b1c-43c3-b23e-cfca35a87f2c" />
 
 When Tottenham played away, they had a higher xG (Expected Goal) to their opponents 6 out of 13 times, so just UNDER half. They recorded a respectable 3 wins one of which was against top opposition Manchester City, 2 draws and just 1 loss.
 
-<img width="2288" height="683" alt="table4" src="https://github.com/user-attachments/assets/2e47f1d1-4e74-4aab-bf9e-32a2132feda5" />
+<img width="2288" height="683" alt="table4" src="https://github.com/user-attachments/assets/a3d4ba2c-a064-48b8-8c09-b4e3f1f56498" />
 
 Of the 7 times Tottenham had a lower xG to their opponents away they were only able to record 2 wins, 2 draws and 3 losses against tough opposition like Arsenal and Manchester United and also a damaging 3-0 loss against relegation rivals Nottingham Forest. Again, better when compared to Home when in the same circumstances but it still could be indicative of Thomas Frank being unable to implement a successful tactical plan of sitting back against TOP OPPOISITION and elevating the potential of low value shots being converted to goals.  
 
 ### 5.4 - Goal Margins
 
-<img width="1474" height="812" alt="margin" src="https://github.com/user-attachments/assets/078de6fc-4983-4694-9abd-c8f8b04549ee" />
+<img width="1474" height="812" alt="margin" src="https://github.com/user-attachments/assets/5d29c152-15ab-421f-83ae-03eef0bacca8" />
 
 Most of Tottenham’s 7 wins (5) have had a goal margin of 2-3 goals. Only 2 wins have had a margin of 1 goal.
 
@@ -133,7 +134,7 @@ On the contrary, from the 11 defeats Spurs suffered in the prem, 8 have had a go
 
 ### 5.5 - Half Time Results
 
-<img width="1206" height="961" alt="ht" src="https://github.com/user-attachments/assets/ea37bba7-7cb8-4a13-a033-b4e11e0f5825" />
+<img width="1206" height="961" alt="ht" src="https://github.com/user-attachments/assets/0cb40361-d360-4fb6-810e-3bf4b0a293af" />
 
 The half-time results of Tottenham games were analysed: 
 
@@ -157,6 +158,7 @@ Whilst this project has yielded a number of interest results and findings this i
 * Goals conceded and scored last 15 mins COMPARED to other teams.
 
 * Injuries? Were there a higher or lower than average set of injuries to other teams in the league?
+  
 * Goals conceded per game compared to league average.
 
 * Goals conceded and scored last 15 mins COMPARED to other teams.
