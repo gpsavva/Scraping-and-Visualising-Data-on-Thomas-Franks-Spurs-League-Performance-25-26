@@ -1,0 +1,2 @@
+# Scraping-and-Visualising-Data-on-Thomas-Franks-Spurs-League-Performance-25-26
+Football data analysis using Python, Excel and Power BI to scrape raw football data and implement an interactive dashboard to visualise Tottenham’s league performance in the 25/26 season under Head Coach Thomas Frank. This will help identify where Tottenham were under-performing under Frank until his sacking and how they compared to opposition.
